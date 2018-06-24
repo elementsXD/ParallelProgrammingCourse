@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class3ParallelProgrammingCourse", "ParallelProgrammingCourse\Class3ParallelProgrammingCourse.csproj", "{469A3F01-5666-47BF-A49F-6A30221AC38E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class4CancellingTasksFirstExampleSingleToken", "CancellingTasksClass4\Class4CancellingTasksFirstExampleSingleToken.csproj", "{CE977CAC-44D5-4E7F-874E-7DFAC5FC8646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{469A3F01-5666-47BF-A49F-6A30221AC38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469A3F01-5666-47BF-A49F-6A30221AC38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469A3F01-5666-47BF-A49F-6A30221AC38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469A3F01-5666-47BF-A49F-6A30221AC38E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE977CAC-44D5-4E7F-874E-7DFAC5FC8646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE977CAC-44D5-4E7F-874E-7DFAC5FC8646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE977CAC-44D5-4E7F-874E-7DFAC5FC8646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE977CAC-44D5-4E7F-874E-7DFAC5FC8646}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
