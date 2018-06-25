@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class3ParallelProgrammingCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class4CancellingTasksFirstExampleSingleToken", "CancellingTasksClass4\Class4CancellingTasksFirstExampleSingleToken.csproj", "{CE977CAC-44D5-4E7F-874E-7DFAC5FC8646}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class4PPCancellingTasksMultipleToken", "Class4PPCancellingTasksMultipleToken\Class4PPCancellingTasksMultipleToken.csproj", "{D9BB6BCE-6BBF-4D89-B3C1-B5B4FF5A66CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CE977CAC-44D5-4E7F-874E-7DFAC5FC8646}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE977CAC-44D5-4E7F-874E-7DFAC5FC8646}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE977CAC-44D5-4E7F-874E-7DFAC5FC8646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9BB6BCE-6BBF-4D89-B3C1-B5B4FF5A66CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9BB6BCE-6BBF-4D89-B3C1-B5B4FF5A66CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9BB6BCE-6BBF-4D89-B3C1-B5B4FF5A66CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9BB6BCE-6BBF-4D89-B3C1-B5B4FF5A66CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
