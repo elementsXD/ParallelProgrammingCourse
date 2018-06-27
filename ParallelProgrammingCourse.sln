@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class4CancellingTasksFirstE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class4PPCancellingTasksMultipleToken", "Class4PPCancellingTasksMultipleToken\Class4PPCancellingTasksMultipleToken.csproj", "{D9BB6BCE-6BBF-4D89-B3C1-B5B4FF5A66CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class5PPWaitingForTimeToPass", "Class5PPWaitingForTimeToPass\Class5PPWaitingForTimeToPass.csproj", "{37CD1E78-1BBB-4587-8699-1C2493B59F8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D9BB6BCE-6BBF-4D89-B3C1-B5B4FF5A66CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9BB6BCE-6BBF-4D89-B3C1-B5B4FF5A66CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9BB6BCE-6BBF-4D89-B3C1-B5B4FF5A66CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37CD1E78-1BBB-4587-8699-1C2493B59F8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CD1E78-1BBB-4587-8699-1C2493B59F8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CD1E78-1BBB-4587-8699-1C2493B59F8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CD1E78-1BBB-4587-8699-1C2493B59F8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
